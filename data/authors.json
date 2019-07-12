@@ -1,0 +1,191 @@
+[
+  {
+    "id" : 1,
+    "name" : "Stan Lee",
+    "birthday" : 1922,
+    "country" : "Estados Unidos",
+    "city" : "New York",
+    "photo" : "/authors/stan-lee.jpg",
+    "publisher" : 1
+  },
+  {
+    "id" : 2,
+    "name" : "Steve Ditko",
+    "birthday" : 1927,
+    "country" : "Estados Unidos",
+    "city" : "Johnstown",
+    "photo" : "/authors/steve-ditko.jpg",
+    "publisher" : 1
+  },
+  {
+    "id" : 3,
+    "name" : "Jack Kirby",
+    "birthday" : 1917,
+    "country" : "Estados Unidos",
+    "city" : "Thousand Oaks",
+    "photo" : "/authors/jack-kirby.jpg",
+    "publisher" : 1
+  },
+  {
+    "id" : 4,
+    "name" : "Joe Simon",
+    "country" : "Estados Unidos",
+    "city" : "Rochester",
+    "birthday" : 1913,
+    "photo" : "/authors/joe-simon.jpg",
+    "publisher" : 1
+  },
+  {
+    "id" : 5,
+    "name" : "Bob Kane",
+    "birthday" : 1915,
+    "country" : "Estados Unidos",
+    "city" : "New York",
+    "photo" : "/authors/bob-kane.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 6,
+    "name" : "Bill Finger",
+    "birthday" : 1914,
+    "country" : "Estados Unidos",
+    "city" : "Denver",
+    "photo" : "/authors/user.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 7,
+    "name" : "Jerry Siegel",
+    "birthday" : 1914,
+    "country" : "Estados Unidos",
+    "city" : "Cleveland",
+    "photo" : "/authors/jerry-siegel.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 8,
+    "name" : "Joe Shuster",
+    "birthday" : 1914,
+    "country" : "Canadá",
+    "city" : "Toronto",
+    "photo" : "/authors/joe-shuster.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 9,
+    "name" : "William Moulton Marston",
+    "birthday" : 1893,
+    "country" : "Estados Unidos",
+    "city" : "Saugus",
+    "photo" : "/authors/william.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 10,
+    "name" : "Gardner Fox",
+    "birthday" : 1911,
+    "country" : "Estados Unidos",
+    "city" : "New York",
+    "photo" : "/authors/gardner-fox.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 11,
+    "name" : "Harry Lampert",
+    "birthday" : 1911,
+    "country" : "Estados Unidos",
+    "city" : "New York",
+    "photo" : "/authors/harry-lampert.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 12,
+    "name" : "Martin Nodell",
+    "birthday" : 1915,
+    "country" : "Estados Unidos",
+    "city" : "Philadelfia",
+    "photo" : "/authors/martin-nodell.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 13,
+    "name" : "Gene Colan",
+    "birthday" : 1926,
+    "country" : "Estados Unidos",
+    "city" : "New York",
+    "photo" : "/authors/user.jpg",
+    "publisher" : 1
+  },
+  {
+    "id" : 14,
+    "name" : "Gil Kane",
+    "birthday" : 1926,
+    "country" : "Letónia",
+    "city" : "Riga",
+    "photo" : "/authors/user.jpg",
+    "publisher" : 1
+  },
+  {
+    "id" : 15,
+    "name" : "Roy Thomas",
+    "birthday" : 1940,
+    "country" : "Estados Unidos",
+    "city" : "Missouri",
+    "photo" : "/authors/user.jpg",
+    "publisher" : 1
+  },
+  {
+    "id" : 16,
+    "name" : "Paul Leroy Norris",
+    "birthday" : 1914,
+    "country" : "Estados Unidos",
+    "city" : "New York",
+    "photo" : "/authors/user.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 17,
+    "name" : "Mortimer Weisinger",
+    "birthday" : 1915,
+    "country" : "Estados Unidos",
+    "city" : "New York",
+    "photo" : "/authors/user.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 18,
+    "name" : "George Edward Papp",
+    "birthday" : 1916,
+    "country" : "Estados Unidos",
+    "city" : "New Jersey",
+    "photo" : "/authors/user.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 19,
+    "name" : "Neal Adams",
+    "birthday" : 1941,
+    "country" : "Estados Unidos",
+    "city" : "New Jersey",
+    "photo" : "/authors/user.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 20,
+    "name" : "Curt Swan",
+    "birthday" : 1920,
+    "country" : "Estados Unidos",
+    "city" : "Minneapolis",
+    "photo" : "/authors/user.jpg",
+    "publisher" : 2
+  },
+  {
+    "id" : 21,
+    "name" : "Jim Starlin",
+    "birthday" : 1949,
+    "country" : "Estados Unidos",
+    "city" : "Detroit",
+    "photo" : "/authors/user.jpg",
+    "publisher" : 1
+  }
+]

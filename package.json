@@ -1,0 +1,25 @@
+{
+  "name": "wiki-heroes",
+  "version": "1.0.0",
+  "description": "API GraphQL",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src",
+    "dev": "npx nodemon src",
+    "lint": "npx eslint ."
+  },
+  "author": "Álvaro Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.0",
+    "nodemon": "^1.19.1"
+  }
+}

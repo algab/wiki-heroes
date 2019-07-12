@@ -1,0 +1,222 @@
+[
+  {
+    "id" : 1,
+    "name" : "Spider-Man",
+    "namePortuguese" : "Homem-Aranha",
+    "year" : 1962,
+    "first" : "Amazing Fantasy #15",
+    "publisher" : 1,
+    "photo" : "/heroes/spider-man.jpg",
+    "idAuthor" : [1,2],
+    "idEvil" : [1]
+  },
+  {
+    "id" : 2,
+    "name" : "Iron Man",
+    "namePortuguese" : "Homem de Ferro",
+    "year" : 1963,
+    "first" : "Tales of Suspense #39",
+    "publisher" : 1,
+    "photo" : "/heroes/iron-man.jpg",
+    "idAuthor" : [1,3],
+    "idEvil" : [2,17]
+  },
+  {
+    "id" : 3,
+    "name" : "Captain America",
+    "namePortuguese" : "Capitão América",
+    "year" : 1940,
+    "first" : "Captain America Comics #1",
+    "publisher" : 1,
+    "photo" : "/heroes/captain-america.jpg",
+    "idAuthor" : [3,4],
+    "idEvil" : [3,17]
+  },
+  {
+    "id" : 4,
+    "name" : "Strange Doctor",
+    "namePortuguese" : "Doutor Estranho",
+    "year" : 1963,
+    "first" : "Strange Tales #110",
+    "publisher" : 1,
+    "photo" : "/heroes/strange-doctor.jpg",
+    "idAuthor" : [1,2],
+    "idEvil" : [4]
+  },
+  {
+    "id" : 5,
+    "name" : "Hulk",
+    "namePortuguese" : "Hulk",
+    "year" : 1962,
+    "first" : "The Incredible Hulk #1",
+    "publisher" : 1,
+    "photo" : "/heroes/hulk.jpg",
+    "idAuthor" : [1,3],
+    "idEvil" : [5,17]
+  },
+  {
+    "id" : 6,
+    "name" : "Batman",
+    "namePortuguese" : "Batman",
+    "year" : 1939,
+    "first" : "Detetive Comics #27",
+    "publisher" : 2,
+    "photo" : "/heroes/batman.jpg",
+    "idAuthor" : [5,6],
+    "idEvil" : [6,18]
+  },
+  {
+    "id" : 7,
+    "name" : "Superman",
+    "namePortuguese" : "Superman",
+    "year" : 1938,
+    "first" : "Action Comics #1",
+    "publisher" : 2,
+    "photo" : "/heroes/superman.jpg",
+    "idAuthor" : [7,8],
+    "idEvil" : [7,18]
+  },
+  {
+    "id" : 8,
+    "name" : "Wonder Woman",
+    "namePortuguese" : "Mulher Maravilha",
+    "year" : 1941,
+    "first" : "All Star Comics #8",
+    "publisher" : 2,
+    "photo" : "/heroes/wonder-woman.jpg",
+    "idAuthor" : [9],
+    "idEvil" : [8,18]
+  },
+  {
+    "id" : 9,
+    "name" : "Flash",
+    "namePortuguese" : "Flash",
+    "year" : 1940,
+    "first" : "Flash Comics #1",
+    "publisher" : 2,
+    "photo" : "/heroes/flash.jpg",
+    "idAuthor" : [10,11],
+    "idEvil" : [9,18]
+  },
+  {
+    "id" : 10,
+    "name" : "Green Lantern",
+    "namePortuguese" : "Lanterna Verde",
+    "year" : 1940,
+    "first" : "All-American Comics #16",
+    "publisher" : 2,
+    "photo" : "/heroes/green-lantern.jpg",
+    "idAuthor" : [6,12],
+    "idEvil" : [10,18]
+  },
+  {
+    "id" : 11,
+    "name" : "Black Panther",
+    "namePortuguese" : "Pantera Negra",
+    "year" : 1966,
+    "first" : "The Fantastic Four #52",
+    "publisher" : 1,
+    "photo" : "/heroes/black-panther.jpg",
+    "idAuthor" : [1,3],
+    "idEvil" : [11]
+  },
+  {
+    "id" : 12,
+    "name" : "Thor",
+    "namePortuguese" : "Thor",
+    "year" : 1962,
+    "first" : "Journey Into Mistery #83",
+    "publisher" : 1,
+    "photo" : "/heroes/thor.jpg",
+    "idAuthor" : [1,3],
+    "idEvil" : [12,17]
+  },
+  {
+    "id" : 13,
+    "name" : "Ant-Man",
+    "namePortuguese" : "Homem-Formiga",
+    "year" : 1962,
+    "first" : "Tales to Astonish #27",
+    "publisher" : 1,
+    "photo" : "/heroes/ant-man.jpg",
+    "idAuthor" : [1,3],
+    "idEvil" : [13,17]
+  },
+  {
+    "id" : 14,
+    "name" : "Wasp",
+    "namePortuguese" : "Vespa",
+    "year" : 1963,
+    "first" : "Tales to Astonish #44",
+    "publisher" : 1,
+    "photo" : "/heroes/wasp.jpg",
+    "idAuthor" : [1,3],
+    "idEvil" : [13,17]
+  },
+  {
+    "id" : 15,
+    "name" : "Captain Marvel",
+    "namePortuguese" : "Capitã Marvel",
+    "year" : 1968,
+    "first" : "Marvel Super-Heroes #13",
+    "publisher" : 1,
+    "photo" : "/heroes/captain-marvel.jpg",
+    "idAuthor" : [13,15],
+    "idEvil" : [14]
+  },
+  {
+    "id" : 16,
+    "name" : "Black Window",
+    "namePortuguese" : "Viúva Negra",
+    "year" : 1964,
+    "first" : "Tales of Suspense #52",
+    "publisher" : 1,
+    "photo" : "/heroes/black-window.jpg",
+    "idAuthor" : [1],
+    "idEvil" : [17]
+  },
+  {
+    "id" : 17,
+    "name" : "Aquaman",
+    "namePortuguese" : "Aquaman",
+    "year" : 1941,
+    "first" : "More Fun Comics #73",
+    "publisher" : 2,
+    "photo" : "/heroes/aquaman.jpg",
+    "idAuthor" : [16,17],
+    "idEvil" : [15,18]
+  },
+  {
+    "id" : 18,
+    "name" : "Green Arrow",
+    "namePortuguese" : "Arqueiro Verde",
+    "year" : 1941,
+    "first" : "More Fun Comics #72",
+    "publisher" : 2,
+    "photo" : "/heroes/green-arrow.jpg",
+    "idAuthor" : [17,18],
+    "idEvil" : [16]
+  },
+  {
+    "id" : 19,
+    "name" : "Martian Manhunter",
+    "namePortuguese" : "Caçador de Marte",
+    "year" : 1955,
+    "first" : "Detective comics #225",
+    "publisher" : 2,
+    "photo" : "/heroes/martian-manhunter.jpg",
+    "idAuthor" : [17,18],
+    "idEvil" : [18]
+  },
+  {
+    "id" : 20,
+    "name" : "Super Girl",
+    "namePortuguese" : "Super Moça",
+    "year" : 1958,
+    "first" : "Superman #123",
+    "publisher" : 2,
+    "photo" : "/heroes/supergirl.jpg",
+    "idAuthor" : [20],
+    "idEvil" : [7]
+  }
+]
