@@ -48,11 +48,11 @@ hero = new graphql.GraphQLObjectType({
         photo: { type: graphql.GraphQLString },
         authors: {
             type: new graphql.GraphQLList(authorType),
-            resolve: (data) => { resolve.author(data.idAuthor); },
+            resolve: data => resolve.author(data.idAuthor),
         },
         evils: {
             type: new graphql.GraphQLList(character),
-            resolve: (data) => { resolve.evil(data.idEvil); },
+            resolve: data => resolve.evil(data.idEvil),
         },
     },
     interfaces: [character],
@@ -74,11 +74,11 @@ evil = new graphql.GraphQLObjectType({
         photo: { type: graphql.GraphQLString },
         authors: {
             type: new graphql.GraphQLList(authorType),
-            resolve: (data) => { resolve.author(data.idAuthor); },
+            resolve: data => resolve.author(data.idAuthor),
         },
         heroes: {
             type: new graphql.GraphQLList(character),
-            resolve: (data) => { resolve.hero(data.idHero); },
+            resolve: data => resolve.hero(data.idHero),
         },
     },
     interfaces: [character],

@@ -9,13 +9,13 @@ class EvilQuery {
         const listEvil = [];
         if (begin !== 0) {
             for (let i = begin - 1; i < end; i += 1) {
-                if (this.evils[i] !== null) {
+                if (this.evils[i] !== undefined) {
                     listEvil.push(this.evils[i]);
                 }
             }
         } else {
             for (let i = 0; i < end; i += 1) {
-                if (this.evils[i] !== null) {
+                if (this.evils[i] !== undefined) {
                     listEvil.push(this.evils[i]);
                 }
             }

@@ -1,7 +1,7 @@
 {
   "name": "wiki-heroes",
   "version": "1.0.0",
-  "description": "API GraphQL",
+  "description": "API GraphQL Wiki Heroes",
   "main": "src/index.js",
   "scripts": {
     "start": "node src",

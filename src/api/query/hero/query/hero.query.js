@@ -9,13 +9,13 @@ class HeroQuery {
         const listHeroes = [];
         if (begin !== 0) {
             for (let i = begin - 1; i < end; i += 1) {
-                if (this.heroes[i] !== null) {
+                if (this.heroes[i] !== undefined) {
                     listHeroes.push(this.heroes[i]);
                 }
             }
         } else {
             for (let i = 0; i < end; i += 1) {
-                if (this.heroes[i] !== null) {
+                if (this.heroes[i] !== undefined) {
                     listHeroes.push(this.heroes[i]);
                 }
             }

@@ -8,7 +8,8 @@ const author = new graphql.GraphQLObjectType({
     fields: {
         id: { type: graphql.GraphQLInt },
         name: { type: graphql.GraphQLString },
-        birthday: { type: graphql.GraphQLInt },
+        birthdate: { type: graphql.GraphQLString },
+        deathdate: { type: graphql.GraphQLString },
         country: { type: graphql.GraphQLString },
         city: { type: graphql.GraphQLString },
         photo: { type: graphql.GraphQLString },

@@ -9,13 +9,13 @@ class AuthorQuery {
         const listAuthors = [];
         if (begin !== 0) {
             for (let i = begin - 1; i < end; i += 1) {
-                if (this.authors[i] !== null) {
+                if (this.authors[i] !== undefined) {
                     listAuthors.push(this.authors[i]);
                 }
             }
         } else {
             for (let i = 0; i < end; i += 1) {
-                if (this.authors[i] !== null) {
+                if (this.authors[i] !== undefined) {
                     listAuthors.push(this.authors[i]);
                 }
             }
